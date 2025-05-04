@@ -3,3 +3,4 @@ Esse é meu primeiro projeto e coloquei o site aqui no ar. Na primeira pagina cr
 <link rel="stylesheet" href="style2.css">
 
 Por enquanto é isso. Continuarei estudando porque um projeto bem maior sobre um site envolvendo por exemplo google, chat gpt e material de estudo (tudo isso e muito mais coisa integrada), esta por vir mas ainda demanda mais conhecimento. Muito obrigado por ler, Boa noite.
+https://militaookk.github.io/Primeiro-Site-HTML/
